@@ -1,0 +1,11 @@
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/obj/Debug/netcoreapp2.1/main.csprojAssemblyReference.cache
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/obj/Debug/netcoreapp2.1/main.csproj.CoreCompileInputs.cache
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/obj/Debug/netcoreapp2.1/main.AssemblyInfoInputs.cache
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/obj/Debug/netcoreapp2.1/main.AssemblyInfo.cs
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/bin/Debug/netcoreapp2.1/main.deps.json
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/bin/Debug/netcoreapp2.1/main.runtimeconfig.json
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/bin/Debug/netcoreapp2.1/main.runtimeconfig.dev.json
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/bin/Debug/netcoreapp2.1/main.dll
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/bin/Debug/netcoreapp2.1/main.pdb
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/obj/Debug/netcoreapp2.1/main.dll
+/home/runner/Search-for-Element-in-a-sorted-infinite-array/obj/Debug/netcoreapp2.1/main.pdb
